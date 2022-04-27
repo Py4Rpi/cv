@@ -10,12 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e989b1-6a36-48a7-9873-e1cabfd1381d" name="Default Changelist" comment="init template commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/cv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="18e989b1-6a36-48a7-9873-e1cabfd1381d" name="Default Changelist" comment="Update index.html and profile.jpg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +49,7 @@
       <workItem from="1650896852801" duration="286000" />
       <workItem from="1650897156291" duration="892000" />
       <workItem from="1651004004571" duration="646000" />
-      <workItem from="1651091076883" duration="3601000" />
+      <workItem from="1651091076883" duration="4339000" />
     </task>
     <task id="LOCAL-00001" summary="init template commit">
       <created>1650896995755</created>
@@ -62,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650896995755</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update index.html and profile.jpg">
+      <created>1651094712333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651094712334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init template commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init template commit" />
+    <MESSAGE value="Update index.html and profile.jpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update index.html and profile.jpg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1650898056334">
@@ -101,9 +105,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1650897083077" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1650897101859">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651094737190">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650897101859" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651094737190" />
   </component>
 </project>
