@@ -10,9 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e989b1-6a36-48a7-9873-e1cabfd1381d" name="Default Changelist" comment="Fixed index.html arrangement 9">
+    <list default="true" id="18e989b1-6a36-48a7-9873-e1cabfd1381d" name="Default Changelist" comment="Fixed index.html arrangement 10">
+      <change beforePath="$PROJECT_DIR$/.idea/cv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cv.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +80,8 @@
       <workItem from="1650896852801" duration="286000" />
       <workItem from="1650897156291" duration="892000" />
       <workItem from="1651004004571" duration="646000" />
-      <workItem from="1651091076883" duration="14326000" />
+      <workItem from="1651091076883" duration="23618000" />
+      <workItem from="1651688955277" duration="2710000" />
     </task>
     <task id="LOCAL-00001" summary="init template commit">
       <created>1650896995755</created>
@@ -135,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651165895362</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fixed index.html arrangement 10">
+      <created>1651166494190</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651166494190</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,9 +204,14 @@
     <MESSAGE value="Fixed index.html arrangement 7" />
     <MESSAGE value="Fixed index.html arrangement 8" />
     <MESSAGE value="Fixed index.html arrangement 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed index.html arrangement 9" />
+    <MESSAGE value="Fixed index.html arrangement 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed index.html arrangement 10" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="275" width="642" height="273" key="#Notifications" timestamp="1651472457804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" width="642" height="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1651472457804" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1650898056334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -180,17 +224,52 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1650897215667" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1650897083077">
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1651733186968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1650897083077" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651165907771">
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651733186968" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1651733186968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651165907771" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1651733186968" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1651733186968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1651733186968" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1651733186968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1651733186968" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1651478052173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651478052173" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1651478052173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651478052173" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1651478052173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651478052173" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1651478052173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651478052173" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1651405436076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1651405436076" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1651166502576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1651166502576" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1651165282507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1651165282507" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cv$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1651733186959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>
